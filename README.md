@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ingeniero de Sistemas con formación en desarrollo de software y bases de datos relacionales (MySQL, PostgreSQL, Oracle) y no relacionales (MongoDB). Experiencia básica e intermedia en Python, Java, JavaScript/TypeScript y PHP. Desarrollo backend con Spring, Spring Boot y Node.js, y frontend con HTML, CSS, JavaScript y Angular. Con conocimientos en redes, soporte técnico y ciberseguridad, adaptable y con capacidad de trabajo en equipo.
+Systems Engineer with training in software development and relational databases (MySQL, PostgreSQL, Oracle) and non-relational databases (MongoDB). Basic and intermediate experience in Python, Java, JavaScript/TypeScript, and PHP. Backend development with Spring, Spring Boot, and Node.js, and frontend development with HTML, CSS, JavaScript, and Angular. Knowledge of networks, technical support, and cybersecurity, adaptable and able to work in a team.
 
 
 ## 🌐 Socials:
