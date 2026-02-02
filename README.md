@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Systems Engineer with training in software development and relational databases (MySQL, PostgreSQL, Oracle) and non-relational databases (MongoDB). Basic and intermediate experience in Python, Java, JavaScript/TypeScript, and PHP. Backend development with Spring, Spring Boot, and Node.js, and frontend development with HTML, CSS, JavaScript, and Angular. Knowledge of networks, technical support, and cybersecurity, adaptable and able to work in a team.
 
 
