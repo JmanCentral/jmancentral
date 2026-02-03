@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About Me:
 Systems Engineer with training in software development and relational databases (MySQL, PostgreSQL, Oracle) and non-relational databases (MongoDB). Basic and intermediate experience in Python, Java, JavaScript/TypeScript, and PHP. Backend development with Spring, Spring Boot, and Node.js, and frontend development with HTML, CSS, JavaScript, and Angular. Knowledge of networks, technical support, and cybersecurity, adaptable and able to work in a team.
 
 
@@ -15,7 +15,7 @@ Systems Engineer with training in software development and relational databases 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmancentral&layout=compact&theme=dark)]([https://github.com/jrmydix](https://github.com/jmancentral))
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jmancentral&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=JmanCentral&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler)
